@@ -1,6 +1,6 @@
-# Shruti Mali - UX / HCI / Technical Portfolio
-
-A Computer Science student focused on Human-Computer Interaction, UI/UX, and user-centered systems. 
+# Shruti Mali 
+**UI/UX Engineer | HCI Researcher| CS Student** <br><br>
+Bridging the gap between robust Computer Science and intentional design. I specialize in building inclusive digital experiences through a blend of Human-Computer Interaction research and front-end engineering. 
 
 ## Featured Projects 
 
@@ -141,8 +141,21 @@ Preview:
 ---
 
 ### 5. Advancements in Technology and Human Well-being - User Research
-- Honors Independent Study
+- Honors Independent Study <br>
+**The Challenge**: Investigating the "double-edged sword" of modern technology by analuzinig its physical, psychological, and neurological impact on users. 
+
+<br>
+
 - 🔗Research Repo: https://github.com/shruti-mali08/Technology-and-Well-Being.git
+
+- **Key Technical & Design Insight**: 
+    - **Quantitative Survey Research**: Designed and executed a primary survey targeting the 11-25 age demographic, discovering that 60% of respondents identified an increase in insecurities due to social media use. 
+    - **HCI & Neurological Analysis**: Examined how "doomscrolling" and the resultant sleep disturbance can hinder the body's ability to regenerate or produce critical neurotransmitters, such as Serotonin (responsible for neural activity) and Dopamine (responsible for executive functions like learning and emotional regulation). 
+    - **Cognitive Performance Study**: Research the progressive depletion of human attention spans, citing a reduction from 12 seconds in 2000 to 8 seconds in 2015 due to media multitasking and digital interruptions. 
+    - **Physical Ergonomics**: Investigated the "Text Neck" syndrome and sedentary lethargy caused by smart appliances, connecting device usage habits to spinal health and long-term physical well-being. 
+    - **Ethical UX Advocacy**: Synthesized findings to advocate for "intentional" vs "mindless" technology use, focusing on how design elements like vibrant colors and pop-up notifications capture user interest while disrupting circadian rhythms.  
+
+
 
 ---
 
@@ -171,11 +184,13 @@ Graphs Utilized:
     - **User-Centric Data Design**: Focused on **Data Legibility**, transforming raw CSV logs into intuitive bar graphs and scatter plots that allow non-technical stakeholders to understand public safety trends at a glance. 
 - Successfully proved a downward trend in Bloomfield's crime rate, supported by a **negative slope (-0.11)** in the regression model, indicating a measurable increase in neighborhood safety over time. 
 
+--- 
 
 ## Skills
-UX: Wireframing, UI Design, Accessibility, Usability
-
-Tech: HTML/CSS, Python, Flask, Git, Pandas
+- **UI/UX & Design:** High-Fidelity Prototyping (Figma), Information Architecture (IA), Design Systems, Visual Storytelling, User-Centered Design (UCD). 
+- **Frontend Development**: html5, CSS3, JavaScript, React, Ionic Framework, Responsive Web Design, Jinja2 Templating.
+- **Backend & Data**: Python (Flask), SQLAlchemy, JSON Data Management, Pandas, NumPy, Matplotlib (Data Visualization), RESTful APIs. 
+- **Tools & Methods**: Git/GitHub, Agile/Scrum, Product Management, Rapid Prototyping, Statistical Analysis. 
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/shruti-mali-d130613day22/) | shrutijmali08@gmail.com
