@@ -72,14 +72,20 @@ Preview:
         <th>
             Hero Section & Value Proposition
         </th>
-        <th>
-            Service Discovery & Information Architecture
-        </th>
     </tr>
     <tr>
         <td>
             <img width="auto" heigh="auto" src="./static/img/03finlearn/homepage.png" alt="Website Hero Section">
         </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>
+            Service Discovery & Information Architecture
+        </th>
+    </tr>
+    <tr>
         <td>
             <img width="auto" heigh="auto" src="./static/img/03finlearn/homepage2.png" alt="Features' Information">
         </td>
