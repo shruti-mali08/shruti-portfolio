@@ -51,7 +51,7 @@ Preview:
 <img width="auto" height="auto" alt="image" src="./static/img/02the_purple_echo/homepage.png" />
 
 - 🔗Repo: https://github.com/shruti-mali08/the-purple-echo.git
-- Stack: HTML/CSS, JavaScript, JSON, SQLAlchemy, Python/Flask, Jinja2 <br><br>
+- **Stack**: HTML/CSS, JavaScript, JSON, SQLAlchemy, Python/Flask, Jinja2 <br><br>
 - **Key Technical & Design Insight**:
   - **Hybrid Data Architecture**: Engineered a dual-stream data system using **JSON** for rapid retrieval of static discography metadata and **SQLAlchemy** for persistent relational user data (Favorites system).
   - **Full-Stack Integration**: Developed a RESTful communication layer between **Python/Flask** backend and **Vanilla JavaScript** frontend to enable asynchronous "Favorite" toggling without page reloads.
@@ -93,7 +93,7 @@ Preview:
 </table>
 
 - 🔗Case Study: https://github.com/shruti-mali08/FinLearn.git
-- Stack: Wix Studio (Development & Hosting), Custom CSS <br><br>
+- **Stack**: Wix Studio (Development & Hosting), Custom CSS <br><br>
 - **Key Technical & Design Insight**:
     - **Award-Winning Prototype**: Led a team of four to win **2nd Place** at the *She Innovates* Hackathon (sonsored by PNC Bank), recognized for excellence in usability and addressing a critical education gap. 
     - **Targeted Mission Strategy**: Defined the platform's core mission to combat financial instability by providing teens with foundational knowledge in savings, budgeting, and real-world financial accountability. 
@@ -105,8 +105,38 @@ Preview:
 ---
 
 ### 4. Festive Logic - Christmas Calculator UI
-- UI Design | Front-End
+- UI Design | Front-End <br>
+**The Challenge**: Translating a complex, high-fidelity Figma mockup into a responsive web interface without losing visual depth or micro-textures. 
+
+Preview: 
+99% Layout Fidelity: From Figma to Web.
+<table style="display: flex; justify-content: center;">
+  <!-- First row: Column Headers -->
+  <tr>
+    <th>UI Mockup (Figma)</th>
+    <th>Live Implementation (HTML/CSS)</th>
+  </tr>
+  <!-- Second row: Comparison Images -->
+  <tr>
+    <td><br>
+      <img src="./static/img/04festive_calculator/figma-festive_calc.png" width="400px" height="auto" alt="Figma Design">
+    </td>
+    <td> <br>
+      <img src="./static/img/04festive_calculator/live-festive_calc.png" width="400px" height="auto" alt="Implemented Design">
+    </td>
+  </tr>
+</table>
+
 - 🔗Repo: https://github.com/shruti-mali08/festive-ui-calculator.git
+- **Stack**: Figma, HTML/CSS, Google Fonts <br><br>
+
+- **Key Technical & Design Insight**: 
+    - **Design-to-Code Fidelity**: Successfully bridged the gap between a high-fidelity Figma concept and a live HTML/CSS implementation, focussing on pixel-accurate translation of gradients, inner shadows, and layer blurring. 
+    - **Aesthetic Balance**: Developed a "premium jewel-toned" visual system, moving away from literal clipart to use **Micro-Textures** and **Atmospheric Cues** that appeal to both children and adults. 
+    - **Visual Engineering** Implemented a unique **Bleeding Technique** where icons are strategically clipped by button frames to create a dynamic background pattern rather than static imagery. 
+    - **Material Design Emulation**: Engineered sophisticated shimmer effect using gradients and opacity to simulate physical materials like frosted ice, silver chrome, and emerald. 
+    - **Responsive Information Architecture**: Utilized a modern **CSS Grid** layout to maintain a strict visual hierarchy and high contrast for accessibility, ensuring the calculator remains intuitive and readable. 
+    - **Iterative Roadmap**: Managed the UI/UX Implementation Phase as a standalone milestone prioritizing layout fidelity and scalable styling before transitioning into functional JavaScript logic. 
 
 ### 5. Advancements in Technology and Human Well-being - User Research
 - Honors Independent Study
