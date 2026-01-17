@@ -138,13 +138,38 @@ Preview:
     - **Responsive Information Architecture**: Utilized a modern **CSS Grid** layout to maintain a strict visual hierarchy and high contrast for accessibility, ensuring the calculator remains intuitive and readable. 
     - **Iterative Roadmap**: Managed the UI/UX Implementation Phase as a standalone milestone prioritizing layout fidelity and scalable styling before transitioning into functional JavaScript logic. 
 
+---
+
 ### 5. Advancements in Technology and Human Well-being - User Research
 - Honors Independent Study
 - 🔗Research Repo: https://github.com/shruti-mali08/Technology-and-Well-Being.git
 
+---
+
 ### 6. Neighborhood Crime Data Analysis
-- Data Analyst
+- Data Analyst<br>
+**The Challenge**: Determining the livability of specific Pittsburgh neighborhoods by analuzing 25 years of public safety data and identifying modern trends. 
+
+Graphs Utilized: 
+<figure>
+    <img width="auto" height="auto" src="./static/img/06neighborhood_data/scatterplot 2019-2023.png" alt="Best-fit line for a scatterplot graph">
+    <figcaption>Monthly Arrests in Bloomfield Neighborhood (2019-2023) with Best-fit Line</figcaption>
+</figure><br>
+<figure>
+    <img width="auto" height="auto" src="./static/img/06neighborhood_data/bar-graph.png" alt="Bar graph of number of arrests from 2019 to 2023">
+    <figcaption>Number of Arrests by Year (2019-2023)</figcaption>
+</figure>
+
 - 🔗Repo: https://github.com/shruti-mali08/Neighborhood-Analysis.git
+- **Stack**: Python (Pandas, NumPy), Matplotlib (Data Visualization), Jupyter Notebooks, WPRDC Open Data. <br><br>
+
+- **Key Technical & Design Insight**: 
+    - **Exploratory Data Analysis**: Processed and cleaned a comprehensive dataset from the Western Pennsylvania Regional Data Center (WPRDC), spanning over 63,000 arrest records from 1998 to 2023. 
+    - **Statistical Profilling**: Utilized **Python (Pandas)** to calculate citywide safety benchmarks, comparing individual neighborhood performance against mean and median arrest data frequencies to identify statistical outliers. 
+    - **Temporal Trend Analysis**: Shifted the analytical focus to a modern timeframe (2019-2023) to provide more relevent, actionable insights for current residents and city planners. 
+    - **Predictive Visualization**: Engineered a scatter plot with a **linear regression (best-fit line) in Matplotlib** to visualize crime trajectories. 
+    - **User-Centric Data Design**: Focused on **Data Legibility**, transforming raw CSV logs into intuitive bar graphs and scatter plots that allow non-technical stakeholders to understand public safety trends at a glance. 
+- Successfully proved a downward trend in Bloomfield's crime rate, supported by a **negative slope (-0.11)** in the regression model, indicating a measurable increase in neighborhood safety over time. 
 
 
 ## Skills
