@@ -37,7 +37,7 @@ Figma Preview: <br>
 - **Key Technical & Design Insight**:
     - **Culturally Grounded Design System**: Developed a custom Google Maps interface using Snazzy Maps tool implementing the Wu Xing (Five Elements) Philosophy. By mapping specific hex codes to the elements of Earth, Fire, Wood, Metal, and Water, I created a visual language that balanced aesthetics with cultural symbolism (e.g., Gold/Earth for stability, Red/Fire for vitality).
     - **Wireframing**: Created initial low-fidelity skeletons in Figma to map out core user interactions.
-    - **Iteration**: Transitioned from wiregrame to code using Ionic & React, where I shifted focus from structural layout to a high-fidelity visual system based on **Wu Xing** philosophy.
+    - **Iteration**: Transitioned from wireframe to code using Ionic & React, where I shifted focus from structural layout to a high-fidelity visual system based on **Wu Xing** philosophy.
     - **Technical Translation**: While the Figma served as a functional guide, the final UI was refined during development to optimize for mobile touch targets and color contrast.
     
 
@@ -53,12 +53,9 @@ Preview:
 - 🔗Repo: https://github.com/shruti-mali08/the-purple-echo.git
 - **Stack**: HTML/CSS, JavaScript, JSON, SQLAlchemy, Python/Flask, Jinja2 <br><br>
 - **Key Technical & Design Insight**:
-  - **Hybrid Data Architecture**: Engineered a dual-stream data system using **JSON** for rapid retrieval of static discography metadata and **SQLAlchemy** for persistent relational user data (Favorites system).
-  - **Full-Stack Integration**: Developed a RESTful communication layer between **Python/Flask** backend and **Vanilla JavaScript** frontend to enable asynchronous "Favorite" toggling without page reloads.
-  - **Information Architecture**: Strategically organized high-volume content - including member profiles, chronoogical discography, and research-based cultural analysis to minimize cognitive load and maximize discoverability.
-  - **Dynamic UI Rendering**: Utilized **Jinja2 templating** to programmatically generate HTML views, ensuring the platform remains easily scalable as new data is added to the backend JSON files.
-  - **Responsive Engineering**: Implemented a "Mobile-First" CSS strategy, optimizing complex data tables and interactive elements for seamless performance across all device breakpoints.
-  - **Academic & Technical Balance**: Successfully bridged HCI principles with rigorous full-stack development to create a polished, user-centric interface supported by a robust Python-based backend.
+    - **Hybrid Data Architecture**: Engineered a dual-stream system using **JSON** for static metadata and **SQLAlchemy** for persistent relational user data.
+    - **Performance & Scalability**: Developed a RESTful communication layer between **Flask** and **Vanilla JS** for asynchronous updates, utilizing **Jinja2** to programmatically scale UI rendering.
+    - **HCI-Driven IA**: Strategically organized a decade of cultural data into a responsive, mobile-first interface designed to minimize cognitive load and maximize discoverability.
 
 ----
 
@@ -95,12 +92,9 @@ Preview:
 - 🔗Case Study: https://github.com/shruti-mali08/FinLearn.git
 - **Stack**: Wix Studio (Development & Hosting), Custom CSS <br><br>
 - **Key Technical & Design Insight**:
-    - **Award-Winning Prototype**: Led a team of four to win **2nd Place** at the *She Innovates* Hackathon (sonsored by PNC Bank), recognized for excellence in usability and addressing a critical education gap. 
-    - **Targeted Mission Strategy**: Defined the platform's core mission to combat financial instability by providing teens with foundational knowledge in savings, budgeting, and real-world financial accountability. 
-    - **Feature Prioritization**: Strategically managed a 30-hour development cycle to deliver a functional MVP (Minimum Viable Product) featuring a real-time expense tracker, a personalized wishlist tool, and an integrated RSS financial news feed. 
-    - **Information Architecture for Beginners**: Designed a "Learning Platform" framework to simplify complex financial jargon into digestible modules covering debt management and market trends. 
-    - **Interactive Budgeting UX**: Conceptualized a personalized budgeting tool that adapts to a young user's specific income sources (like allowances), allowing them to cisualize the relationship between daily spending and long-term "Wishlist" goals. 
-    - **Technical Problem-Solving**: Overcame rapid-prototyping constraints by implementing a lightweight database structure and utilizing **Wix Studio with custom CSS** to ensure a high-fidelity visual experience within the competition deadline. 
+    - **Award-Winning Prototype**: Led a team of four to win **2nd Place** at *She Innovates* (sponsored by PNC Bank), delivering a functional MVP (Minimum Viable Product) in a 30-hour sprint.
+    - **Rapid UX Strategy**: Managed high-pressure feature prioritization to implement a real-time expense tracker, wishlist tool, and an accessibility-focused learning framework for teens.
+    - **Technical Problem-Solving**: Overcame time constraints by deploying a modular design in **Wix Studio with custom CSS**, ensuring a high-fidelity visual experience.
 
 ---
 
@@ -131,30 +125,24 @@ Preview:
 - **Stack**: Figma, HTML/CSS, Google Fonts <br><br>
 
 - **Key Technical & Design Insight**: 
-    - **Design-to-Code Fidelity**: Successfully bridged the gap between a high-fidelity Figma concept and a live HTML/CSS implementation, focussing on pixel-accurate translation of gradients, inner shadows, and layer blurring. 
-    - **Aesthetic Balance**: Developed a "premium jewel-toned" visual system, moving away from literal clipart to use **Micro-Textures** and **Atmospheric Cues** that appeal to both children and adults. 
-    - **Visual Engineering** Implemented a unique **Bleeding Technique** where icons are strategically clipped by button frames to create a dynamic background pattern rather than static imagery. 
-    - **Material Design Emulation**: Engineered sophisticated shimmer effect using gradients and opacity to simulate physical materials like frosted ice, silver chrome, and emerald. 
-    - **Responsive Information Architecture**: Utilized a modern **CSS Grid** layout to maintain a strict visual hierarchy and high contrast for accessibility, ensuring the calculator remains intuitive and readable. 
-    - **Iterative Roadmap**: Managed the UI/UX Implementation Phase as a standalone milestone prioritizing layout fidelity and scalable styling before transitioning into functional JavaScript logic. 
+    - **Design-to-Code Fidelity**: Translated high-fidelity **Figma** mockups into pixel-accurate **HTML/CSS**, replicating complex gradients, inner shadows, and layer blurring.
+    - Advanced Visual Engineering: Implemented "Micro-Textures" and a "Bleeding Technique" for icons to create a premium, jewel-toned aesthetic that simulates physical materials like frosted ice.
+    - Responsive Layout: Utilized **CSS Grid** to maintain strict visual hierarchy and high contrast, prioritizing accessibility and layout integrity over functional logic.
 
 ---
 
 ### 5. Advancements in Technology and Human Well-being - User Research
 - Honors Independent Study <br>
-**The Challenge**: Investigating the "double-edged sword" of modern technology by analuzinig its physical, psychological, and neurological impact on users. 
+**The Challenge**: Investigating the "double-edged sword" of modern technology by analyzing its physical, psychological, and neurological impact on users. 
 
 <br>
 
 - 🔗Research Repo: https://github.com/shruti-mali08/Technology-and-Well-Being.git
 
 - **Key Technical & Design Insight**: 
-    - **Quantitative Survey Research**: Designed and executed a primary survey targeting the 11-25 age demographic, discovering that 60% of respondents identified an increase in insecurities due to social media use. 
-    - **HCI & Neurological Analysis**: Examined how "doomscrolling" and the resultant sleep disturbance can hinder the body's ability to regenerate or produce critical neurotransmitters, such as Serotonin (responsible for neural activity) and Dopamine (responsible for executive functions like learning and emotional regulation). 
-    - **Cognitive Performance Study**: Research the progressive depletion of human attention spans, citing a reduction from 12 seconds in 2000 to 8 seconds in 2015 due to media multitasking and digital interruptions. 
-    - **Physical Ergonomics**: Investigated the "Text Neck" syndrome and sedentary lethargy caused by smart appliances, connecting device usage habits to spinal health and long-term physical well-being. 
-    - **Ethical UX Advocacy**: Synthesized findings to advocate for "intentional" vs "mindless" technology use, focusing on how design elements like vibrant colors and pop-up notifications capture user interest while disrupting circadian rhythms.  
-
+    - **Quantitative HCI Research**: Conducted a semester-long honors study finding that 60% of adolescents identified increased insecurities due to social media use.
+    - **Cognitive & Physical Analysis**: Investigated the "double-edged sword" of tech, from neurotransmitter depletion caused by doomscrolling to the ergonomics of "Text Neck."
+    - **Ethical Advocacy**: Synthesized findings to advocate for "intentional" design, exploring how UI elements like vibrant notifications can disrupt circadian rhythms.
 
 
 ---
@@ -177,12 +165,9 @@ Graphs Utilized:
 - **Stack**: Python (Pandas, NumPy), Matplotlib (Data Visualization), Jupyter Notebooks, WPRDC Open Data. <br><br>
 
 - **Key Technical & Design Insight**: 
-    - **Exploratory Data Analysis**: Processed and cleaned a comprehensive dataset from the Western Pennsylvania Regional Data Center (WPRDC), spanning over 63,000 arrest records from 1998 to 2023. 
-    - **Statistical Profilling**: Utilized **Python (Pandas)** to calculate citywide safety benchmarks, comparing individual neighborhood performance against mean and median arrest data frequencies to identify statistical outliers. 
-    - **Temporal Trend Analysis**: Shifted the analytical focus to a modern timeframe (2019-2023) to provide more relevent, actionable insights for current residents and city planners. 
-    - **Predictive Visualization**: Engineered a scatter plot with a **linear regression (best-fit line) in Matplotlib** to visualize crime trajectories. 
-    - **User-Centric Data Design**: Focused on **Data Legibility**, transforming raw CSV logs into intuitive bar graphs and scatter plots that allow non-technical stakeholders to understand public safety trends at a glance. 
-- Successfully proved a downward trend in Bloomfield's crime rate, supported by a **negative slope (-0.11)** in the regression model, indicating a measurable increase in neighborhood safety over time. 
+    - **Statistical Profiling**: Processed 63,000+ records via **Python (Pandas)** to calculate citywide safety benchmarks and identify statistical outliers in Pittsburgh neighborhoods.
+    - **Predictive Visualization**: Engineered **Matplotlib** scatter plots with linear regression to prove a downward safety trend in Bloomfield (negative slope of -0.11).
+    - **Data Legibility**: Transformed raw CSV logs into user-centric visual narratives, making complex public safety trends accessible to non-technical stakeholders.
 
 --- 
 
