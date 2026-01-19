@@ -2,13 +2,13 @@
 **UI/UX Engineer | HCI Researcher| CS Student** <br><br>
 Bridging the gap between robust Computer Science and intentional design. I specialize in building inclusive digital experiences through a blend of Human-Computer Interaction research and front-end engineering. 
 
-## Featured Projects 
+## Featured Projects ✨
 
 ### 1. LocAsian - Mobile UI/UX and Frontend
 - Front-End Lead | Scrum Master | Product Owner <br>
-**The Challenge**: Designing a map-based UI that feels culturally authentic rather than generic.
+**The Challenge**: Designing a map-based UI that feels culturally authentic rather than generic 🏮.
 
-
+<br><p>Click on the images to enlarge</p>
 <table>
     <tr>
         <th>
@@ -35,6 +35,7 @@ Bridging the gap between robust Computer Science and intentional design. I speci
 </table>
 
 
+
 - 🔗Repo: https://github.com/shruti-mali08/LocAsian-Cultural_Experiences_Map.git
 - **Stack**: Ionic + React (Framework), Google Maps, Snazzy Maps <br><br>
 - **Key Technical & Design Insight**:
@@ -48,7 +49,7 @@ Bridging the gap between robust Computer Science and intentional design. I speci
 
 ### 2. The Purple Echo - BTS Information Website
 - Full-Stack Developer <br>
-**The Challenge**: Transforming a decade's worth of complex cultural and discographic data into a high-performance, navigable data archive.
+**The Challenge**: Transforming a decade's worth of complex cultural and discographic data into a high-performance, navigable data archive 💜.
 
 Preview: <br>
 <img width="auto" height="400" alt="image" src="./static/img/02the_purple_echo/homepage.png" />
@@ -64,7 +65,7 @@ Preview: <br>
 
 ### 3. FinLearn - Financial Literacy Platform (Hackathon)
 - Product | UI Lead | 2nd Place (PNC Bank) <br>
-**The Challenge**: Designing a scalable financial literacy platform from scratch in 30 hours, specifically tailored to reduce the barrier of entry for younger users. 
+**The Challenge**: Designing a scalable financial literacy platform from scratch in 30 hours, specifically tailored to reduce the barrier of entry for younger users 📊.
 
 Preview: 
 <table>
@@ -95,7 +96,7 @@ Preview:
 - 🔗Case Study: https://github.com/shruti-mali08/FinLearn.git
 - **Stack**: Wix Studio (Development & Hosting), Custom CSS <br><br>
 - **Key Technical & Design Insight**:
-    - **Award-Winning Prototype**: Led a team of four to win **2nd Place** at *She Innovates* (sponsored by PNC Bank), delivering a functional MVP (Minimum Viable Product) in a 30-hour sprint.
+    - **Award-Winning Prototype**: Led a team of four to win **2nd Place** at *She Innovates* (sponsored by PNC Bank), delivering a functional MVP (Minimum Viable Product) in a 30-hour sprint 🏆.
     - **Rapid UX Strategy**: Managed high-pressure feature prioritization to implement a real-time expense tracker, wishlist tool, and an accessibility-focused learning framework for teens.
     - **Technical Problem-Solving**: Overcame time constraints by deploying a modular design in **Wix Studio with custom CSS**, ensuring a high-fidelity visual experience.
 
@@ -103,7 +104,7 @@ Preview:
 
 ### 4. Festive Logic - Christmas Calculator UI
 - UI Design | Front-End <br>
-**The Challenge**: Translating a complex, high-fidelity Figma mockup into a responsive web interface without losing visual depth or micro-textures. 
+**The Challenge**: Translating a complex, high-fidelity Figma mockup into a responsive web interface without losing visual depth or micro-textures 🎨.
 
 Preview: 
 99% Layout Fidelity: From Figma to Web.
@@ -129,14 +130,14 @@ Preview:
 
 - **Key Technical & Design Insight**: 
     - **Design-to-Code Fidelity**: Translated high-fidelity **Figma** mockups into pixel-accurate **HTML/CSS**, replicating complex gradients, inner shadows, and layer blurring.
-    - Advanced Visual Engineering: Implemented "Micro-Textures" and a "Bleeding Technique" for icons to create a premium, jewel-toned aesthetic that simulates physical materials like frosted ice.
-    - Responsive Layout: Utilized **CSS Grid** to maintain strict visual hierarchy and high contrast, prioritizing accessibility and layout integrity over functional logic.
+    - **Advanced Visual Engineering**: Implemented "Micro-Textures" and a "Bleeding Technique" for icons to create a premium, jewel-toned aesthetic that simulates physical materials like frosted ice ❄️.
+    - **Responsive Layout**: Utilized **CSS Grid** to maintain strict visual hierarchy and high contrast, prioritizing accessibility and layout integrity over functional logic.
 
 ---
 
 ### 5. Advancements in Technology and Human Well-being - User Research
 - Honors Independent Study <br>
-**The Challenge**: Investigating the "double-edged sword" of modern technology by analyzing its physical, psychological, and neurological impact on users. 
+**The Challenge**: Investigating the "double-edged sword" of modern technology by analyzing its physical, psychological, and neurological impact on users 🔍.
 
 <br>
 
@@ -152,7 +153,7 @@ Preview:
 
 ### 6. Neighborhood Crime Data Analysis
 - Data Analyst<br>
-**The Challenge**: Determining the livability of specific Pittsburgh neighborhoods by analuzing 25 years of public safety data and identifying modern trends. 
+**The Challenge**: Determining the livability of specific Pittsburgh neighborhoods by analyzing 25 years of public safety data and identifying modern trends ⚙️.
 
 Graphs Utilized: 
 <figure>
@@ -168,7 +169,7 @@ Graphs Utilized:
 - **Stack**: Python (Pandas, NumPy), Matplotlib (Data Visualization), Jupyter Notebooks, WPRDC Open Data. <br><br>
 
 - **Key Technical & Design Insight**: 
-    - **Statistical Profiling**: Processed 63,000+ records via **Python (Pandas)** to calculate citywide safety benchmarks and identify statistical outliers in Pittsburgh neighborhoods.
+    - **Statistical Profiling**: Processed 63,000+ records via **Python (Pandas)** to calculate citywide safety benchmarks and identify statistical outliers in Pittsburgh neighborhoods 💡.
     - **Predictive Visualization**: Engineered **Matplotlib** scatter plots with linear regression to prove a downward safety trend in Bloomfield (negative slope of -0.11).
     - **Data Legibility**: Transformed raw CSV logs into user-centric visual narratives, making complex public safety trends accessible to non-technical stakeholders.
 
