@@ -4,7 +4,7 @@ Bridging the gap between robust Computer Science and intentional design. I speci
 
 ## Featured Projects ✨
 
-### 1. LocAsian - Mobile UI/UX and Frontend
+### 1. LocAsian - Mobile UI/UX and Front-end
 - Front-End Lead | Scrum Master | Product Owner <br>
 **The Challenge**: Designing a map-based UI that feels culturally authentic rather than generic 🏮.
 
@@ -177,7 +177,7 @@ Graphs Utilized:
 
 ## Skills
 - **UI/UX & Design:** High-Fidelity Prototyping (Figma), Information Architecture (IA), Design Systems, Visual Storytelling, User-Centered Design (UCD). 
-- **Frontend Development**: html5, CSS3, JavaScript, React, Ionic Framework, Responsive Web Design, Jinja2 Templating.
+- **Front-end Development**: html5, CSS3, JavaScript, React, Ionic Framework, Responsive Web Design, Jinja2 Templating.
 - **Backend & Data**: Python (Flask), SQLAlchemy, JSON Data Management, Pandas, NumPy, Matplotlib (Data Visualization), RESTful APIs. 
 - **Tools & Methods**: Git/GitHub, Agile/Scrum, Product Management, Rapid Prototyping, Statistical Analysis. 
 
