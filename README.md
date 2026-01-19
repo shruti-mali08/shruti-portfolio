@@ -10,32 +10,35 @@ Bridging the gap between robust Computer Science and intentional design. I speci
 
 
 <table>
-  <tr>
-    <th>
-      Mobile Phone Preview:
-    </th>
-    <th>
-      Laptop Preview:
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <img width="300" height="auto" alt="image" src="./static/img/01locasian/mobile-locasian.png" />
-    </td>
-    <td>
-      <img width="700" height="auto" alt="image" src="./static/img/01locasian/laptop-locasian.png" />
-    </td>
-  </tr>
+    <tr>
+        <th>
+            Mobile Phone Preview
+        </th>
+        <th>
+            Laptop Preview
+        </th>
+        <th>
+            Figma Preview
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img width="auto" height="auto" alt="image" src="./static/img/01locasian/mobile-locasian.png" />
+        </td>
+        <td>
+            <img width="auto" height="auto" alt="image" src="./static/img/01locasian/laptop-locasian.png" />
+        </td>
+        <td>
+            <img width="auto" height="auto" alt="image" src="./static/img/01locasian/figma-locasian.png" />
+        </td>
+    </tr>
 </table>
-
-Figma Preview: <br>
-<img width="auto" height="500" alt="image" src="./static/img/01locasian/figma-locasian.png" />
 
 
 - 🔗Repo: https://github.com/shruti-mali08/LocAsian-Cultural_Experiences_Map.git
 - **Stack**: Ionic + React (Framework), Google Maps, Snazzy Maps <br><br>
 - **Key Technical & Design Insight**:
-    - **Culturally Grounded Design System**: Developed a custom Google Maps interface using Snazzy Maps tool implementing the Wu Xing (Five Elements) Philosophy. By mapping specific hex codes to the elements of Earth, Fire, Wood, Metal, and Water, I created a visual language that balanced aesthetics with cultural symbolism (e.g., Gold/Earth for stability, Red/Fire for vitality).
+    - **Culturally Grounded Design System**: Developed a custom Google Maps interface using Snazzy Maps tool implementing the **Wu Xing (Five Elements) Philosophy**. By mapping specific hex codes to the elements of Earth, Fire, Wood, Metal, and Water, I created a visual language that balanced aesthetics with cultural symbolism.
     - **Wireframing**: Created initial low-fidelity skeletons in Figma to map out core user interactions.
     - **Iteration**: Transitioned from wireframe to code using Ionic & React, where I shifted focus from structural layout to a high-fidelity visual system based on **Wu Xing** philosophy.
     - **Technical Translation**: While the Figma served as a functional guide, the final UI was refined during development to optimize for mobile touch targets and color contrast.
@@ -47,8 +50,8 @@ Figma Preview: <br>
 - Full-Stack Developer <br>
 **The Challenge**: Transforming a decade's worth of complex cultural and discographic data into a high-performance, navigable data archive.
 
-Preview: 
-<img width="auto" height="auto" alt="image" src="./static/img/02the_purple_echo/homepage.png" />
+Preview: <br>
+<img width="auto" height="400" alt="image" src="./static/img/02the_purple_echo/homepage.png" />
 
 - 🔗Repo: https://github.com/shruti-mali08/the-purple-echo.git
 - **Stack**: HTML/CSS, JavaScript, JSON, SQLAlchemy, Python/Flask, Jinja2 <br><br>
@@ -72,7 +75,7 @@ Preview:
     </tr>
     <tr>
         <td>
-            <img width="auto" heigh="auto" src="./static/img/03finlearn/homepage.png" alt="Website Hero Section">
+            <img width="auto" height="400" src="./static/img/03finlearn/homepage.png" alt="Website Hero Section">
         </td>
     </tr>
 </table>
@@ -84,7 +87,7 @@ Preview:
     </tr>
     <tr>
         <td>
-            <img width="auto" heigh="auto" src="./static/img/03finlearn/homepage2.png" alt="Features' Information">
+            <img width="auto" height="400" src="./static/img/03finlearn/homepage2.png" alt="Features' Information">
         </td>
     </tr>
 </table>
@@ -113,10 +116,10 @@ Preview:
   <!-- Second row: Comparison Images -->
   <tr>
     <td><br>
-      <img src="./static/img/04festive_calculator/figma-festive_calc.png" width="400px" height="auto" alt="Figma Design">
+      <img src="./static/img/04festive_calculator/figma-festive_calc.png" width="auto" height="400px" alt="Figma Design">
     </td>
     <td> <br>
-      <img src="./static/img/04festive_calculator/live-festive_calc.png" width="400px" height="auto" alt="Implemented Design">
+      <img src="./static/img/04festive_calculator/live-festive_calc.png" width="auto" height="400px" alt="Implemented Design">
     </td>
   </tr>
 </table>
@@ -153,12 +156,12 @@ Preview:
 
 Graphs Utilized: 
 <figure>
-    <img width="auto" height="auto" src="./static/img/06neighborhood_data/scatterplot 2019-2023.png" alt="Best-fit line for a scatterplot graph">
     <figcaption>Monthly Arrests in Bloomfield Neighborhood (2019-2023) with Best-fit Line</figcaption>
+    <img width="auto" height="250px" src="./static/img/06neighborhood_data/scatterplot 2019-2023.png" alt="Best-fit line for a scatterplot graph">
 </figure><br>
 <figure>
-    <img width="auto" height="auto" src="./static/img/06neighborhood_data/bar-graph.png" alt="Bar graph of number of arrests from 2019 to 2023">
     <figcaption>Number of Arrests by Year (2019-2023)</figcaption>
+    <img width="auto" height="250px" src="./static/img/06neighborhood_data/bar-graph.png" alt="Bar graph of number of arrests from 2019 to 2023">
 </figure>
 
 - 🔗Repo: https://github.com/shruti-mali08/Neighborhood-Analysis.git
