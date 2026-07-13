@@ -4,18 +4,19 @@ Bridging the gap between robust Computer Science and intentional design. I speci
 
 ## Skills
 
-- **UI/UX & Design:** High-Fidelity Prototyping (Figma), Information Architecture (IA), Design Systems, Wireframing, Visual Storytelling, User-Centered Design (UCD)
+
 - **Frontend Development**: JavaScript, TypeScript, HTML5, CSS3, React, Vite, Ionic Framework, Responsive Web Design, Jinja2 Templating
 - **Backend & Databases**: Python (Flask), Java (Spring Boot), RESTful API
 - **Database & ORM**: PostgreSQL, SQLAlchemy, JDBC,
 - **Cloud & Architecture**: AWS, Docker, Microsoft Graph APIs, Microservices (awareness)
 - **Data & ML**: Python (Pandas, NumPy, Jupyter), Matplotlib, Logistic Regression, Random Forest, Neural Networks
+- **UI/UX & Design:** High-Fidelity Prototyping (Figma), Information Architecture (IA), Design Systems, Wireframing, Visual Storytelling, User-Centered Design (UCD)
 - **Tools & Methods**: Git/GitHub, Agile/Scrum, Product Management, Rapid Prototyping, Statistical Analysis, Microsoft 365/SharePoint (SPFx)
 
 ## Experience 💼
 
 ### Application Modernization Intern — Pellera Technologies (Remote)
-*Jul 2025 – Aug 2025*
+*Jul 2025 – Aug 2025* <br>
 Contributed to the design and development of an AI-first Cloud Engineering Intranet Portal within the Microsoft 365 ecosystem.
 - Translated stakeholder business requirements into structured portal workflows; integrated SharePoint, Microsoft Teams, and Microsoft Graph APIs to enhance collaboration features.
 - Researched and recommended AI-driven UX improvements using Microsoft Copilot, evaluating enhancements for practical integration into the portal architecture.
@@ -23,11 +24,11 @@ Contributed to the design and development of an AI-first Cloud Engineering Intra
 - **Stack**: SharePoint, Microsoft Teams, Microsoft Graph API, Microsoft Copilot, Microsoft 365
 
 ### Mathematics Tutor — University of Pittsburgh (Remote)
-*Nov 2025 – Apr 2026*
+*Nov 2025 – Apr 2026* <br>
 Conducted virtual tutoring sessions, adapting instruction to individual learning styles and tracking student progress through structured feedback.
 
 ### Summer Academic Mentor — Office of the SVC and Provost, University of Pittsburgh
-*May 2025 – Jul 2025*
+*May 2025 – Jul 2025* <br>
 Facilitated one-on-one and group sessions for high school students, maintaining organized lesson materials in collaboration with instructors.
 
 ---
