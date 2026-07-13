@@ -39,7 +39,8 @@ Facilitated one-on-one and group sessions for high school students, maintaining 
 - Front-End Lead | Scrum Master | Product Owner <br>
 **The Challenge**: Designing a map-based UI that feels culturally authentic rather than generic 🏮.
 
-<br><p>Click on the images to enlarge</p>
+<br>
+<p>Click on the images to enlarge</p>
 <table>
     <tr>
         <th>
@@ -128,7 +129,7 @@ Currently rebuilding The Purple Echo as a React single-page application, moving 
 **The Challenge**: Designing a scalable financial literacy platform from scratch in 30 hours, tailored to reduce the barrier of entry for younger users 📊.
 
 Preview:
-<table>
+<table width="75%">
     <tr>
         <th>
             Hero Section & Value Proposition
@@ -136,11 +137,11 @@ Preview:
     </tr>
     <tr>
         <td>
-            <img width="75%" height="auto" src="./static/img/03finlearn/homepage.png" alt="Website Hero Section">
+            <img width="95%" height="auto" src="./static/img/03finlearn/homepage.png" alt="Website Hero Section">
         </td>
     </tr>
 </table>
-<table>
+<table width="75%">
     <tr>
         <th>
             Service Discovery & Information Architecture
@@ -148,7 +149,7 @@ Preview:
     </tr>
     <tr>
         <td>
-            <img width="75%" height="auto" src="./static/img/03finlearn/homepage2.png" alt="Features' Information">
+            <img width="95%" height="auto" src="./static/img/03finlearn/homepage2.png" alt="Features' Information">
         </td>
     </tr>
 </table>
@@ -168,7 +169,7 @@ Preview:
 
 Preview:
 99% Layout Fidelity: From Figma to Web.
-<table style="display: flex; justify-content: center; width: 50%">
+<table style="display: flex; justify-content: center; width: 50%; margin-left: auto; margin-right: auto;">
   <tr>
     <th>UI Mockup (Figma)</th>
     <th>Live Implementation (HTML/CSS)</th>
@@ -215,17 +216,9 @@ Graphs Utilized:
 
 ---
 
-<<<<<<< HEAD
 ### 8. Advancements in Technology and Human Well-being - User Research
 - Honors Independent Study <br>
 **The Challenge**: Investigating the "double-edged sword" of modern technology by analyzing its physical, psychological, and neurological impact on users aged 11-25 🔍.
-=======
-## Skills
-- **UI/UX & Design:** High-Fidelity Prototyping (Figma), Information Architecture (IA), Design Systems, Visual Storytelling, User-Centered Design (UCD). 
-- **Front-end Development**: html5, CSS3, JavaScript, React, Ionic Framework, Responsive Web Design, Jinja2 Templating.
-- **Backend & Data**: Python (Flask), SQLAlchemy, JSON Data Management, Pandas, NumPy, Matplotlib (Data Visualization), RESTful APIs. 
-- **Tools & Methods**: Git/GitHub, Agile/Scrum, Product Management, Rapid Prototyping, Statistical Analysis. 
->>>>>>> 1f5376cbe0520843cbd90883984b27c9c7c34340
 
 - 🔗 Research Repo: https://github.com/shruti-mali08/Technology-and-Well-Being.git
 - **Key Technical & Design Insight**:
@@ -240,6 +233,7 @@ Graphs Utilized:
 **The Challenge**: Understanding whether China's PIPL and India's DPDPA reproduce GDPR principles or reflect a distinct regional governance model — and what that means for culturally aware technology design ⚖️.
 
 > ❗**Confidentiality Note**: This research is currently **unpublished**. The full report and presentation deck are available for review [upon request](mailto:shrutijmali08@gmail.com) during the interview process to protect the integrity of the study.
+
 - **Key Technical & Design Insight**:
     - **Comparative Policy Analysis**: Analyzed three major data protection frameworks (GDPR, PIPL, DPDPA) across legal, political, and cultural dimensions.
     - **Theoretical Synthesis**: Applied the "Brussels Effect" and regional governance literature to argue that Asian privacy law reflects a distinct regional approach rather than passive GDPR imitation.
@@ -247,4 +241,4 @@ Graphs Utilized:
 
 ---
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/shruti-j-mali/) | shrutijmali08@gmail.com
+[LinkedIn](https://www.linkedin.com/in/shruti-j-mali/) | [shrutijmali08@gmail.com](mailto:shrutijmali08@gmail.com)
