@@ -34,7 +34,7 @@ Facilitated one-on-one and group sessions for high school students, maintaining 
 
 ## Featured Projects ✨
 
-### 1. LocAsian - Mobile UI/UX and Frontend
+### 1. LocAsian - Mobile UI/UX and Front-end
 - Front-End Lead | Scrum Master | Product Owner <br>
 **The Challenge**: Designing a map-based UI that feels culturally authentic rather than generic 🏮.
 
@@ -214,9 +214,17 @@ Graphs Utilized:
 
 ---
 
+<<<<<<< HEAD
 ### 8. Advancements in Technology and Human Well-being - User Research
 - Honors Independent Study <br>
 **The Challenge**: Investigating the "double-edged sword" of modern technology by analyzing its physical, psychological, and neurological impact on users aged 11-25 🔍.
+=======
+## Skills
+- **UI/UX & Design:** High-Fidelity Prototyping (Figma), Information Architecture (IA), Design Systems, Visual Storytelling, User-Centered Design (UCD). 
+- **Front-end Development**: html5, CSS3, JavaScript, React, Ionic Framework, Responsive Web Design, Jinja2 Templating.
+- **Backend & Data**: Python (Flask), SQLAlchemy, JSON Data Management, Pandas, NumPy, Matplotlib (Data Visualization), RESTful APIs. 
+- **Tools & Methods**: Git/GitHub, Agile/Scrum, Product Management, Rapid Prototyping, Statistical Analysis. 
+>>>>>>> 1f5376cbe0520843cbd90883984b27c9c7c34340
 
 - 🔗 Research Repo: https://github.com/shruti-mali08/Technology-and-Well-Being.git
 - **Key Technical & Design Insight**:
